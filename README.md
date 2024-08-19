@@ -15,7 +15,7 @@
 
 4. **🎓 Education:** Holds a Bachelor of Technology from Maulana Azad National Institute of Technology, Bhopal (2014-2018).
 ## My LeetCode Profile
-- ![LeetCode Stats](https://leetcard.jacoblin.cool/guptashivam0507?theme=light&font=Francois%20One)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light&font=Fjalla%20One&ext=heatmap)
 
 
 ## Tech Stack
